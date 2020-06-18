@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7602D23C-A029-42B6-843C-C9CD5237B427"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EE35E20-66EF-4F24-A12F-456D0377A501"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pedometer_iino/SecondViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7EE35E20-66EF-4F24-A12F-456D0377A501 - f1734baceb04fed1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pedometer_iino.SecondViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Pedometer_iino.SecondViewController"
+                  moduleName = "Pedometer_iino"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iinohinako/Desktop/Pedometer_iino/Pedometer_iino/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "282">
+               </Location>
+               <Location
+                  uuid = "7EE35E20-66EF-4F24-A12F-456D0377A501 - b83403c479960619"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pedometer_iino.SecondViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Pedometer_iino.SecondViewController&gt;"
+                  moduleName = "Pedometer_iino"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iinohinako/Desktop/Pedometer_iino/Pedometer_iino/SecondViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "223">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
